@@ -1,0 +1,21 @@
+{
+  "name": "blocky",
+  "version": "1.0.0",
+  "description": "Blockchain demo in JS",
+  "main": "main.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/punitnathani/blocky.git"
+  },
+  "author": "Punit Nathani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/punitnathani/blocky/issues"
+  },
+  "homepage": "https://github.com/punitnathani/blocky#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
